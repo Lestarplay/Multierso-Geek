@@ -1,0 +1,23 @@
+body{
+   background-color:black ;
+
+}
+h1{
+    text-align: center;
+    height: 40px;
+    font-family: workbench,sans-serif;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+    font-family: workbench,sans-serif;
+}
+section{
+    color: white;
+    text-align: center;
+}
+img{
+    height: 350px; width: 700px;
+    
+}
