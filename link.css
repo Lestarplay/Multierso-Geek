@@ -1,3 +1,29 @@
 body{
     background-color: black;
 }
+h1{
+    text-align: center;
+    height: 40px;
+    font-family: workbench,sans-serif;
+    background-color: darkviolet;
+    color: white;
+    padding: 50px;
+    
+}
+a{
+    color: blue;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    color: white;
+    text-align: center;
+}
+.pi{
+    background-image: url(images/Batman-que-Ri.jpeg);
+    height: 400px; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
