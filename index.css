@@ -26,12 +26,15 @@ img{
 }
 a{
      color: blue;
+     text-decoration: none;
     
      
 }
 ul{
     display: flex;
     justify-content: space-between;
+    
+    
     
 }
 .jp{
@@ -61,4 +64,11 @@ main{
     
     
     
+}
+.bp{
+    background-color: black;
+    height: 100px;
+}
+.bp:hover{
+    background-color: rebeccapurple;
 }
