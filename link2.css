@@ -1,3 +1,38 @@
 body{
-    background-color: gray;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    height: 40px;
+    font-family: workbench,sans-serif;
+    background-color: darkviolet;
+    color: white;
+    padding: 50px;
+    
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+.bp{
+    background-color: black;
+    height: 100px;
+}
+.bp:hover{
+    background-color: rebeccapurple;
+}
+section{
+    color: white;
+    text-align: center;
+}
+main{
+    color: white;
+    text-align: center;
+}
+.lo{
+    border-radius: 40px;
 }
