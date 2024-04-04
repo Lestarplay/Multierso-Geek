@@ -64,3 +64,10 @@ section{
     background-repeat: no-repeat;
     background-position: center;
 }
+.we{
+    height: 240px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    
+}
