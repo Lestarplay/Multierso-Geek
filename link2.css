@@ -10,6 +10,10 @@ h1{
     padding: 50px;
     
 }
+h2{
+    color: white;
+    text-align: center;
+}
 a{
     color: blue;
     text-decoration: none;
@@ -25,27 +29,44 @@ ul{
 .bp:hover{
     background-color: rebeccapurple;
 }
-section{
-    color: white;
-    text-align: center;
-  
+img{
+    max-width: 100%;
+    display: block;
 }
-main{
+
+
+    
+
+.lo{
     color: white;
-    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    max-width: 500px;
+    margin: 20px ;
+    grid-gap: 170px;
+    border-radius: 100px;
    
     
     
+    
 }
-.lo{
-    border-radius: 40px;
-    
-    
-    
-    
+.lo > div:nth-child(){
+    display: grid;
+    grid-template-columns: 1fr  ;
+    grid-gap: 10px;
+    align-items: center;
 }
 .lo2{
-    border-radius: 40px;
-    
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
    
+
+}
+.lo2 > div {
+    flex: 1 1 200px;
+    margin: 10px;
+    
 }
