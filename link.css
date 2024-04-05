@@ -46,9 +46,8 @@ section{
     text-align: justify;
 }
 .te{
-    background-image: url(images/superman-red-son.jpg);
-    height: 500px;
-    width: 900px;
+    background-image: url(images/matthew-vaughn-superman.jpg);
+    height: 600px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -59,15 +58,27 @@ section{
     border-radius: 20px;
 }
 .zx{
-    background-image: url(images/gggg-1.jpg);
-    height: 400px;
+    background-image: url(images/GalleryChar_1900x900_Constantine_52ab6fb8242ac7.67239011.jpg);
+    height: 700px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .we{
-    height: 240px;
+    height: 200px;
     background-color: white;
     color: black;
     border-radius: 20px;
     
+}
+.vv{
+    background-image: url(images/20220518-20220518_190029.avif);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.qs{
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
 }
