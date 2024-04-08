@@ -52,7 +52,7 @@ section{
     background-position: center;
 }
 .df{
-    height: 220px;
+    height: 230px;
     background-color: white;
     color: black;
     border-radius: 20px;
@@ -78,6 +78,18 @@ section{
 }
 .qs{
     height: 100px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.dg{
+    background-image: url(images/312682393-i659533.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.lç{
+    height: 250px;
     background-color: white;
     color: black;
     border-radius: 20px;
