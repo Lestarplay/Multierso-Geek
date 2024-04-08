@@ -31,42 +31,43 @@ ul{
 }
 img{
     max-width: 100%;
-    display: block;
 }
-
-
-    
-
-.lo{
-    color: white;
-    display: grid;
-    grid-template-columns: 1fr 1fr ;
-    max-width: 500px;
-    margin: 20px ;
-    grid-gap: 170px;
-    border-radius: 100px;
+.lo {
+   display: grid;
+   grid-template-columns: 1fr 200px;
+   grid-gap: 20px;
+   max-width: 800px;
+   padding: 10px;
+   margin: 0 auto;
+   color: white;
    
     
-    
-    
 }
-.lo > div:nth-child(){
+@media (max-width: 600px) {
+    .lo {
+        grid-template-columns: 1fr;
+    }
+}
+.lo2 {
     display: grid;
-    grid-template-columns: 1fr  ;
-    grid-gap: 10px;
-    align-items: center;
-}
-.lo2{
-    color: white;
-    display: flex;
-    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr;
     max-width: 800px;
     margin: 0 auto;
-   
+    grid-gap: 40px;
+    color: white;
+}
+@media (max-width: 600px) {
+    .lo2 {
+        grid-template-columns: 1fr;
+    }
+}
+footer{
+    color: white;
+    text-align: center;
+}
 
-}
-.lo2 > div {
-    flex: 1 1 200px;
-    margin: 30px;
+
+
     
-}
+    
+

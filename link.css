@@ -47,7 +47,7 @@ section{
 }
 .te{
     background-image: url(images/matthew-vaughn-superman.jpg);
-    height: 600px;
+    height: 400px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -59,7 +59,7 @@ section{
 }
 .zx{
     background-image: url(images/GalleryChar_1900x900_Constantine_52ab6fb8242ac7.67239011.jpg);
-    height: 700px;
+    height: 400px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -71,8 +71,8 @@ section{
     
 }
 .vv{
-    background-image: url(images/20220518-20220518_190029.avif);
-    height: 500px;
+    background-image: url(images/20220518-20220518_190029.jpg);
+    height: 400px;
     background-repeat: no-repeat;
     background-position: center;
 }

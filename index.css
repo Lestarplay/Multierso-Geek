@@ -73,3 +73,7 @@ main{
 .bp:hover{
     background-color: rebeccapurple;
 }
+footer{
+    color: white;
+    text-align: center;
+}
