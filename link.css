@@ -98,13 +98,13 @@ section{
     border-radius: 10px;
 }
 .ll{
-    background-image: url(images/vilanias.webp);
+    background-image: url(images/vilanias.jpg);
     height: 400px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .as{
-    height: 240px;
+    height: 180px;
     background-color: white;
     color: black;
     border-radius: 10px;
