@@ -40,6 +40,7 @@ img{
    padding: 10px;
    margin: 0 auto;
    color: white;
+   border: rebeccapurple solid;
    
     
 }
@@ -55,6 +56,8 @@ img{
     margin: 0 auto;
     grid-gap: 40px;
     color: white;
+    border: rebeccapurple solid;
+    
 }
 @media (max-width: 600px) {
     .lo2 {
