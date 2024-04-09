@@ -109,3 +109,20 @@ section{
     color: black;
     border-radius: 10px;
 }
+.ak{
+    background-image: url(images/flash-reverso.jpg);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.ur{
+    background-color: white;
+    height: 230px;
+    color: black;
+    border-radius: 10px;
+}
+footer{
+    color: white;
+    text-align: center;
+}
