@@ -1,5 +1,7 @@
 body{
-    background-color: black;
+    background-image: url(images/wallpapersden.com_anime-landscape-hd-ai-city_1952x1120.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1{
     text-align: center;
